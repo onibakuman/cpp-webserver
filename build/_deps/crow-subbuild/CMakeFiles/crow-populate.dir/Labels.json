@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/CMakeFiles/crow-populate"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/CMakeFiles/crow-populate.rule"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/CMakeFiles/crow-populate-complete.rule"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-build.rule"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-configure.rule"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-download.rule"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-install.rule"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-patch.rule"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-test.rule"
+		},
+		{
+			"file" : "/home/onibakuman/files/code/repos/cpp-webserver/build/_deps/crow-subbuild/crow-populate-prefix/src/crow-populate-stamp/crow-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"crow-populate"
+		],
+		"name" : "crow-populate"
+	}
+}

@@ -1,7 +1,15 @@
-#include<iostream>
+#include "crow.h"
 
 int main() {
-	std::cout << "YO!" << std::endl;
+    crow::SimpleApp app;
 
-	exit 0
+    // Define a simple REST route
+    CROW_ROUTE(app, "/hello")([]() {
+        return "Saul is incredibly dumb";
+    });
+
+    // Start the server on port 8080
+    app.port(8080).multithreaded().run();
+    return 0;
 }
+
